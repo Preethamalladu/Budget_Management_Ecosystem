@@ -1,9 +1,9 @@
-Budget-Management-ECOSYSTEM Project
+Budget_Management_ECOSYSTEM Project
 
 INTRODUCTION
 ------------
 
-Thank you for downloading the Budget-Management-ECOSYSTEM Project.
+Thank you for downloading the Budget_Management_ECOSYSTEM Project.
 
 In current government entities, there is very little to none transparency on where the funds are being used, this stems out the possibility for fraud, scams which not only mean that the public is being cheated but also directly hurts the country’s economic growth. 
 
